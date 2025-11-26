@@ -78,15 +78,14 @@ end
 
 ```
 ### TABULATION:
-<img width="1920" height="1200" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/f65dcc14-dc5e-4238-a380-9af7812c4b63" />
-<img width="1920" height="1200" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/c3c61e25-fa4d-4d40-9cfe-9a331f3982a6" />
-<img width="1920" height="1200" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/1d439047-9bc1-45d9-8301-b5588265a631" />
+
 
 
 ### GRAPH:
-![WhatsApp Image 2025-11-19 at 15 54 51_ae673cf8](https://github.com/user-attachments/assets/790cf4a9-7608-4f11-abe1-ce8f84619605)
 
-
+<img width="1920" height="1200" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/f65dcc14-dc5e-4238-a380-9af7812c4b63" />
+<img width="1920" height="1200" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/c3c61e25-fa4d-4d40-9cfe-9a331f3982a6" />
+<img width="1920" height="1200" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/1d439047-9bc1-45d9-8301-b5588265a631" />
 
 
 
