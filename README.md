@@ -79,8 +79,7 @@ end
 ```
 ### TABULATION:
 
-<img width="784" height="1280" alt="LS20251128163053" src="https://github.com/user-attachments/assets/b31cc512-9e3e-447e-9459-44cb641524af" />
-
+![pic_20251128190616_0](https://github.com/user-attachments/assets/f097a766-0809-4a67-b9c5-b6bb286e59de)
 
 
 ### GRAPH:
