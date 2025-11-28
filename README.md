@@ -78,7 +78,8 @@ end
 
 ```
 ### TABULATION:
-![WhatsApp Image 2025-11-27 at 09 06 52_0ab54548](https://github.com/user-attachments/assets/4ff355e6-3b62-478b-afda-9b0fe0302cd2)
+
+<img width="784" height="1280" alt="LS20251128163053" src="https://github.com/user-attachments/assets/b31cc512-9e3e-447e-9459-44cb641524af" />
 
 
 
